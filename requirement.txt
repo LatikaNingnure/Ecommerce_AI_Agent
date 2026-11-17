@@ -1,0 +1,13 @@
+Gemini  
+
+openai 
+
+langchain
+
+langchain-openai
+
+streamlit
+
+python_doyent
+
+mysql-connector-python
